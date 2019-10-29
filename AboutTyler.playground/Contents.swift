@@ -6,4 +6,7 @@ let myName = "Tyler Christian"
 
 let hobbies = "Warhammer40k, playing video games, playing guitar"
 
-var age = 22 
+var age = 22
+
+let favoriteFood = "Pizza"
+
